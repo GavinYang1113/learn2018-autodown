@@ -3,3 +3,8 @@ __pycache__
 .pass
 example_cookie.txt
 session.json
+build/
+dist/
+*.spec
+release/windows/
+release/macos/
